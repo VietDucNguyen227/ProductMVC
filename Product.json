@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 1,
+    "proName" : "Samsung",
+    "proDesc" : "New",
+    "price" : "5000"
+  },
+  {
+    "id" : 2,
+    "proName" : "Xiaomi",
+    "proDesc" : "Brand New",
+    "price" : "2000"
+  },
+  {
+    "id" : 3,
+    "proName" : "Iphone",
+    "proDesc" : "Kinda Old",
+    "price" : "8000"
+  }
+]
